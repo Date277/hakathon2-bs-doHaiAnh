@@ -1,0 +1,41 @@
+h2 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px;
+  background-color: aqua;
+  padding: 20px;
+  border: 3px solid black;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+li button {
+  margin-left: 5px;
+  border-radius: 5px;
+}
+
+.add-btn {
+  height: 50px;
+  width: 300px;
+  border-radius: 6px;
+  margin-top: 5px;
+  background-color: aqua;
+}
+
+.add-task {
+  margin-top: 20px;
+  width: 400px;
+  height: 30px;
+  border-radius: 5px;
+  padding-left: 15px;
+}
